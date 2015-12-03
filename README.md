@@ -4,6 +4,10 @@ A short, concise and brief presentation of React
 
 [Online demo](http://react-in-15-min.javierperez.com.ar)
 
+Presentation keyboard shortcuts:
+ - `space` start/pause the timer
+ - `b` show/hide "bang!" image 
+
 ## App based in React webpack starter template
 
 ### Features
