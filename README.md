@@ -10,7 +10,7 @@ Presentation keyboard shortcuts:
 
 ## App based in React webpack starter template
 
-[React webpack starter template](https://github.com/webpack/react-starter)
+[React webpack starter template](https://github.com/krasimir/react-webpack-starter)
 
 ### Features
 
