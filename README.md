@@ -10,6 +10,8 @@ Presentation keyboard shortcuts:
 
 ## App based in React webpack starter template
 
+[React webpack starter template](https://github.com/webpack/react-starter)
+
 ### Features
 
 * Bundles [React](https://facebook.github.io/react/) with `jsx` syntax
