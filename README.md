@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/grade/4e99fdd0320c437e8b8077677fc8c384)](https://www.codacy.com/app/javierperez/react-in-15-min)
+
 # React in 15 min
 
 A short, concise and brief presentation of React
