@@ -1,6 +1,10 @@
 # Build ...
 node_modules
 npm-debug.log
+public/app.js
+public/app.js.map
+public/app.min.js
+public/app.min.js.map
 tmp
 
 # Created by https://www.gitignore.io
