@@ -62,7 +62,7 @@ if (env === 'dev') {
     contentBase: './public',
     hot: true,
     debug: true
-  }).listen(port, host, function (err, result) {
+  }).listen(port, host, function (err/*, result*/) {
     if (err) {
       console.log(err);
     }
